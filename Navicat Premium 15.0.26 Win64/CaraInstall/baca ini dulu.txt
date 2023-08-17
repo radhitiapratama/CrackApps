@@ -1,0 +1,1 @@
+setelah anda menginstall navicat,pindahkan folder patch ke folder installasi navicat anda
